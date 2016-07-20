@@ -14,3 +14,5 @@ data=open("/Users/liup/rnn.test").read()
 
 
 
+
+By Lingfei Zeng
